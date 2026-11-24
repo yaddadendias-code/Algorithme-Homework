@@ -1,11 +1,10 @@
 # Sorting Algorithms Assignment
 
 Université Badji Mokhtar - Annaba  
-Computer Science Department  
 Module: Algorithms and Data Structures  
-Programming language: C11  
+Programming language: C 
 Author: Yaddaden Dias  
-Group: [Enter your group]  
+Group: 1  
 Academic year: 2026/2027
 
 ## Project overview
