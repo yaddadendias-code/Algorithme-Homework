@@ -1,7 +1,7 @@
 # Sorting Algorithms Assignment
 
 Université Badji Mokhtar - Annaba  
-Module: Algorithms and Data Structures  
+Module: Algorithms and Data Structures  3
 Programming language: C 
 
 Author: Yaddaden Dias  
